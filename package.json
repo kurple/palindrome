@@ -1,0 +1,27 @@
+{
+  "name": "kurple-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurple/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "kurple",
+    "javascript"
+  ],
+  "author": "Kurt M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurple/palindrome/issues"
+  },
+  "homepage": "https://github.com/kurple/palindrome#readme",
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
