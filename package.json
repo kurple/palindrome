@@ -1,8 +1,11 @@
 {
   "name": "kurple-palindrome",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "Palindrome detector",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha"
   },
@@ -12,16 +15,13 @@
   },
   "keywords": [
     "palindrome",
-    "kurple",
+    "learn-enough",
     "javascript"
   ],
-  "author": "Kurt M.",
+  "author": "Kurple",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kurple/palindrome/issues"
   },
-  "homepage": "https://github.com/kurple/palindrome#readme",
-  "dependencies": {
-    "npm": "^6.1.0"
-  }
+  "homepage": "https://github.com/kurple/palindrome#readme"
 }
