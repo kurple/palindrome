@@ -24,10 +24,8 @@ function Phrase(content) {
 
   // Returns true if the phrase is a palindrome, false otherwise.
   this.palindrome = function palindrome() {
-    if (this.letters()) {
+
       return this.processedContent() === this.processedContent().reverse();
-    } else {
-      return false;
-    }
+
   }
 }
