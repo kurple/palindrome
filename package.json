@@ -1,6 +1,6 @@
 {
   "name": "kurple-palindrome",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Palindrome detector",
   "main": "index.js",
   "directories": {
